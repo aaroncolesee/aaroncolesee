@@ -2,6 +2,7 @@
 
 🔭 I’m currently working on a few projects
   - [Algorithm Visualser](https://aaroncolesee.github.io/algo-visualiser/)
+  - [Game of Life Simulator](https://aaroncolesee.github.io/gol-simulator/)
   
 :pencil: I’m trying to learn
   - more ReactJS :wink:
