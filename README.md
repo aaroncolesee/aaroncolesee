@@ -1,6 +1,6 @@
 ### Hello, I'm Aaron 👋
 
-🔭 I’m currently working on a few projects
+🔭 I’m currently working on various mini projects to help me get used to dev
   - [Algorithm Visualser](https://aaroncolesee.github.io/algo-visualiser/)
   - [Game of Life Simulator](https://aaroncolesee.github.io/gol-simulator/)
   
